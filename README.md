@@ -63,6 +63,9 @@ $TP$ (верно угадано), $TN$ (верно отвергнуто), $FP$ (
 
 $$Accuracy = \frac{TP + TN}{TP + TN + FP + FN}$$
 
+
+<img src="https://github.com/Pixel385/sign-language-interpreter/blob/main/SignLanguageTranslator/Diagramma.jpeg" width="600">
+
 ## 8.Компьютерное зрение:
 
 *Границы кадрирования (отступ вокруг кисти):* 30 пикселей
